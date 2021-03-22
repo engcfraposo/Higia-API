@@ -39,12 +39,12 @@ atendimento para aqueles com menor condições financeira e segundo momento, B2B
 </div>
 
 ## :fire: Rotas
-
+```bash
 $ GET/POST/PUT/DELETE base_url/users
 $ POST base_url/sessions
 $ GET/POST/PUT/DELETE base_url/appointments
 $ GET base_url/appointments/me
-
+```
 
 ### :rocket: Tecnologias Usadas
 
