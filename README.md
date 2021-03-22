@@ -1,6 +1,6 @@
 
 <div align="center" style="margin: 20px;">
-<img alt="Higia-WEB" src="./img/Capture.JPG" width="400vw" heigth="auto"/>
+<img alt="Higia-WEB" src="./img/Capture.JPG" width="200vw" heigth="auto"/>
  <img alt="Higia-WEB" src="./img/logo.jfif" width="500vw" heigth="auto"/>
 </div>
 
