@@ -1,8 +1,7 @@
-
-<div align="center" style="margin: 20px;">
-<img alt="Higia-WEB" src="./img/Capture.JPG" width="200vw" heigth="auto"/>
- <img alt="Higia-WEB" src="./img/logo.jfif" width="500vw" heigth="auto"/>
+<div align="center" style="margin-bottom: 20px;">
+<img alt="Higia-WEB" src="./img/logo.jfif" width="auto" heigth="auto"/>
 </div>
+
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/engcfraposo/Higia-WEB/LICENSE.md)
 ![GitHub last commit](https://img.shields.io/github/last-commit/engcfraposo/Higia-WEB?color=green&style=flat-square)
@@ -33,8 +32,9 @@ atendimentos;
 
 ## :fire: Prévia da Aplicação
 
-<div align="center" style="margin-bottom: 20px;">
-<img alt="Higia-WEB" src="./img/logo.jfif" width="auto" heigth="auto"/>
+<div align="center" style="margin: 20px;">
+<img alt="Higia-WEB" src="./img/Capture.JPG" width="200vw" heigth="auto"/>
+ <img alt="Higia-WEB" src="./img/logo.jfif" width="500vw" heigth="auto"/>
 </div>
 
 ### :rocket: Tecnologias Usadas
