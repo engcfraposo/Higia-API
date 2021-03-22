@@ -1,6 +1,7 @@
 
 <div align="center" style="margin: 20px;">
 <img alt="Higia-WEB" src="./img/Capture.JPG" width="auto" heigth="auto"/>
+ <img alt="Higia-WEB" src="./img/logo.jfif" width="auto" heigth="auto"/>
 </div>
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/engcfraposo/Higia-WEB/LICENSE.md)
