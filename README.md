@@ -38,12 +38,23 @@ atendimento para aqueles com menor condições financeira e segundo momento, B2B
  <img alt="Higia-API" src="./img/logo.jfif" width="500vw" heigth="auto"/>
 </div>
 
+## :fire: Rotas
+
+$ GET/POST/PUT/DELETE base_url/users
+$ POST base_url/sessions
+$ GET/POST/PUT/DELETE base_url/appointments
+$ GET base_url/appointments/me
+
+
 ### :rocket: Tecnologias Usadas
 
 O projeto foi feito com as seguintes tecnologias:
 
-- [ReactJS](https://pt-br.reactjs.org/)
-- [Styled-Components](https://styled-components.com/)
+- [Express](https://expressjs.com/pt-br/)
+- [MongoDB](https://www.mongodb.com/)
+- [PostgresSql](https://www.postgresql.org/)
+- [Redis](https://redis.io/)
+- [Typeorm](https://typeorm.io/)
 {...}
 
 ## :thinking: Como Contribuir?
