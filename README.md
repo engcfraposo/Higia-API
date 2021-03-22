@@ -24,11 +24,12 @@
 
 ## :barber: O projeto
 
-Plataforma que visa unir recém-formados em
-psicologia a pacientes, de modo a prover
-atendimento psicológico nos momentos de crise
-às pessoas que não têm condições para pagar os
-atendimentos;
+Desenvolvemos a Higia, com um intuito, levar o atendimento psicológico para qualquer lugar de
+forma remota e acessível financeiramente e fomentar uma rede de oportunidades tanto para
+profissionais recém formados em Psicologia como para aqueles que já atuam no mercado e
+desejam uma nova fonte de renda. Dessa forma nossa plataforma consegue fornecer um
+atendimento em primeiro momento B2C que conecta clientes e profissionais de forma a levar o
+atendimento para aqueles com menor condições financeira e segundo momento, B2B2C.
 
 ## :fire: Prévia da Aplicação
 
